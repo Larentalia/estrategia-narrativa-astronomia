@@ -1,5 +1,6 @@
 # 🌌 Estrategia Narrativa y Digital para Centros de Divulgación Astronómica
 🌍 **English version available → [README_EN.md](README_EN.md)**
+
 Este repositorio recoge una propuesta estratégica creada por **Begoña Penón**, orientada a fortalecer la comunicación, el posicionamiento y el impacto de centros públicos de investigación y divulgación astronómica.
 
 El documento fue inicialmente desarrollado en el marco de una candidatura a una institución pública, y ha sido adaptado para uso abierto con el fin de **compartir ideas, inspirar nuevas iniciativas y visibilizar el valor de la comunicación científica centrada en las personas**.
