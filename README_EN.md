@@ -1,4 +1,4 @@
-##🌌 Strategic Storytelling & Digital Strategy for Astronomy Outreach Centres
+**🌌 Strategic Storytelling & Digital Strategy for Astronomy Outreach Centres**
 
 This repository presents a strategic proposal developed by **Begoña Penón**, designed
 to enhance the communication, public positioning, and societal impact of public institutions
@@ -8,7 +8,7 @@ inspire new initiatives, and emphasise the importance of human-centred science c
 
 ---
 
-##🎯 Objectives of the Portfolio
+**🎯 Objectives of the Portfolio**
 - Strengthen the role of astronomy outreach centres as vital hubs for community engagement and scientific knowledge.
 - Bridge the gap between complex scientific concepts and wider audiences through engaging and easily accessible storytelling.
 - Investigate the strategic use of digital tools, automation, and generative AI in science communication.
@@ -16,7 +16,8 @@ inspire new initiatives, and emphasise the importance of human-centred science c
 
 ---
 
-##🧩 Contents
+**🧩 Contents**
+
 This portfolio includes:
 - A narrative and digital assessment of the institutional context
 - A communication strategy for high-impact astronomical events
@@ -26,7 +27,7 @@ This portfolio includes:
 
 ---
 
-##📄 Access the Document
+**📄 Access the Document**
 🔗 [View/download the portfolio in PDF](./B_Penon_Portfolio_Astronomy_Outreach_2025_EN.pdf)
 
   ⚠️ This document is for personal use only.
@@ -34,7 +35,8 @@ This portfolio includes:
 
 ---
 
-##🧑‍🚀 About the Author
+**🧑‍🚀 About the Author**
+
 **Begoña Penón**
 Digital communicator specialised in translating complexity into relatable, shared experiences.
 Experience in digital strategy, generative AI, outreach and community building.
@@ -42,14 +44,14 @@ Experience in digital strategy, generative AI, outreach and community building.
 
 ---
 
-##🛡️ License
+**🛡️ License**
 © 2025 Begoña Penón. All rights reserved.
 
 This document may be freely accessed but cannot be reproduced or used for commercial or institutional purposes without explicit permission from the author.
 
 ---
 
-##✉️ Contact
+**✉️ Contact**
 Want to adapt this strategy to your institution? Exchange ideas?
 I’m open to collaborations.
 You can reach me directly via LinkedIn:
