@@ -41,7 +41,7 @@ El portfolio incluye:
 
 **Begoña Penón**  
 Comunicadora digital especializada en traducir complejidad en experiencias comprensibles y compartibles.  
-Experiencia en estrategia digital, IA generativa, divulgación científica, y construcción de comunidades.
+Experiencia en estrategia digital, IA generativa, divulgación, y construcción de comunidades.
 
 🔗 [linkedin.com/in/begopenon](https://linkedin.com/in/begopenon)
 
